@@ -1,0 +1,4 @@
+﻿  ForwardList3.cpp
+c:\users\predator\source\repos\forwardlist3\forwardlist3\forwardlist3.cpp(197): warning C4101: 'temp': unreferenced local variable
+c:\users\predator\source\repos\forwardlist3\forwardlist3\forwardlist3.cpp(217): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ForwardList3.vcxproj -> C:\Users\PREDATOR\source\repos\ForwardList3\Debug\ForwardList3.exe
